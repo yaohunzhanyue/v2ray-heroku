@@ -6,7 +6,7 @@
 
 3.更新 v2ray 版本，修改 app settings-->Config Vars-->VER，程序自动重启，通过view Logs确认。
 
-4.客户端配置 client_config.json, 建议使用 cn_sniproxy+websocket+tls 传输协议。
+4.客户端配置模版client_config.json（修改//标记行的参数）, 建议使用 cn_sniproxy+websocket+tls 传输协议。
 
 
 # 参考 
@@ -14,5 +14,5 @@ https://github.com/v2ray/v2ray-core
 
 https://github.com/onplus/v2hero/
 
-# 客户端设置参考
+# v2rayN客户端设置参考
 https://github.com/onplus/v2hero/wiki/Deploy-V2ray-To-Heroku
