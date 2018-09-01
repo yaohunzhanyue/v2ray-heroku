@@ -1,4 +1,4 @@
-# 一键部署 v2ray 到 heroku (实测可用)
+# 一键部署 v2ray 到 heroku (实测可用，但是youtube视频播放有点问题)
 
 1.部署时配置 v2ray core 的版本、Vmess协议的UUID（"alterId"默认为64）和连接缓存。
 
