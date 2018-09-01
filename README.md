@@ -13,3 +13,6 @@
 https://github.com/v2ray/v2ray-core
 
 https://github.com/onplus/v2hero/
+
+#客户端设置参考
+https://github.com/onplus/v2hero/wiki/Deploy-V2ray-To-Heroku
