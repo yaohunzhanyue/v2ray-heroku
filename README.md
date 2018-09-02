@@ -18,4 +18,6 @@ https://github.com/onplus/v2hero/
 https://github.com/onplus/v2hero/wiki/Deploy-V2ray-To-Heroku
 
 
-ps:安卓端BifrostV导入配置成功使用
+ps:
+安卓端BifrostV导入配置成功使用
+win客户端使用时，firefox无法打开外网，显示证书错误，chrome正常
