@@ -19,5 +19,5 @@ https://github.com/onplus/v2hero/wiki/Deploy-V2ray-To-Heroku
 
 
 ps:
-安卓端BifrostV导入配置成功使用
+安卓端BifrostV导入配置成功使用，导入v2rayNg失败
 windows上使用官方客户端时，firefox无法打开外网，显示证书错误，chrome正常；v2rayN可以导入自定义配置，但是也只有chrome能正常使用
