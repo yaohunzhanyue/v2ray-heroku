@@ -16,3 +16,6 @@ https://github.com/onplus/v2hero/
 
 # v2rayN客户端设置参考
 https://github.com/onplus/v2hero/wiki/Deploy-V2ray-To-Heroku
+
+
+ps:安卓端BifrostV导入配置成功使用
