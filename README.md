@@ -6,8 +6,6 @@
 
 3.更新 v2ray 版本，修改 app settings-->Config Vars-->VER，程序自动重启，通过view Logs确认。
 
-4.客户端配置模版client_config.json（修改相关参数）, 建议使用 cn_sniproxy+websocket+tls 传输协议。
-
 
 # 参考 
 https://v2ray.com/chapter_02/protocols/mtproto.html
