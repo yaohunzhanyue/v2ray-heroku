@@ -25,11 +25,11 @@
     "settings": {
       "vnext": [
       {
-         "address": "v2proxy.herokuapp.com",  //
+         "address": "项目名.herokuapp.com",
          "port": 443, 
          "users": [
          {
-           "id": "d8b6436c-2bf4-4c16-afca-706d21db3559",  //
+           "id": "你的UUID",
            "alterId": 64,
            "security": "auto"
          }
@@ -41,13 +41,13 @@
      "network": "ws",
      "security": "tls",
      "tlsSettings": {
-       "serverName": "herokuapp.com",  //
+       "serverName": "herokuapp.com",
        "allowInsecure": true
       },
      "wsSettings": {
        "path": "",
        "headers": {
-          "Host": "v2proxy.herokuapp.com" //
+          "Host": "项目名.herokuapp.com"
        }
      }
   },
